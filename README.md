@@ -31,4 +31,10 @@ The goal of this concept is to explore a new way of organizing knowledge and int
 Улучшает навигацию по большим историям диалогов.
 Механизм «Кристалл» позволяет ИИ-коммуникациям транслироваться из простых чатов в структурированное построение знаний.
 ![Concept-map](1773336537298.png)
-Detailed system architecture available upon request.
+Detailed system architecture available upon request. 
+Core idea of the system:
+
+Information flow
+AI processing
+Human validation
+Transformation into a stable knowledge structure — the Knowledge Crystal
