@@ -38,3 +38,4 @@ Information flow
 AI processing
 Human validation
 Transformation into a stable knowledge structure — the Knowledge Crystal
+![ ](schema.png)
