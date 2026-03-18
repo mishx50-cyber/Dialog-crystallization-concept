@@ -1,4 +1,4 @@
-# Dialog Crystallization Concept
+1773813808614.png# Dialog Crystallization Concept
 
 Green Ecology. Green Economy.
 
@@ -38,4 +38,4 @@ Information flow
 AI processing
 Human validation
 Transformation into a stable knowledge structure — the Knowledge Crystal
-![ ](schema.png)
+![ ](1773813808614.png)
