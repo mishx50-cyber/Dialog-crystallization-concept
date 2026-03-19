@@ -1,4 +1,4 @@
-1773813808614.png# Dialog Crystallization Concept
+«Кристаллизация диалога»: слой для долговременной структурированной памяти #468
 
 Green Ecology. Green Economy.
 
